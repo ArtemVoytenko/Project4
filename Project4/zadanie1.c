@@ -1,7 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <windows.h> // не работает #include <locale.h>
-
+#include <windows.h> 
 int z1() 
 {
 	char c = '!';
